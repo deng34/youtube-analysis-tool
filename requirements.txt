@@ -1,0 +1,5 @@
+yt-dlp
+pandas
+plotly
+spacy
+openpyxl
